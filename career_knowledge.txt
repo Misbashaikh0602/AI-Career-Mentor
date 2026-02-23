@@ -1,0 +1,14 @@
+Cybersecurity Roadmap:
+Networking → Linux → Security Fundamentals → SIEM → SOC Analyst → Threat Hunting
+
+SOC Analyst Tools:
+Splunk, Wazuh, Wireshark, Nmap, ELK Stack
+
+AI Engineer Roadmap:
+Python → Math → Machine Learning → Deep Learning → NLP → LLM
+
+Data Analyst Tools:
+Excel, SQL, PowerBI, Python, Pandas
+
+DevOps Tools:
+Linux, Git, Docker, Kubernetes, CI/CD, AWS
