@@ -4,6 +4,7 @@ python-dotenv
 sentence-transformers
 faiss-cpu
 pypdf
+PyPDF2
 scikit-learn
 numpy
 pandas
